@@ -1,7 +1,10 @@
 <div align="center">
   <h1>✨ Welcome to Chrystalandia ✨</h1>
   <p><i>A universe with a crystal core.</i></p>
-  <p>Management Information Systems | Web Development | Data Analytics</p>
+  <a href="https://chrystalandia-chaucao.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?        font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=A+universe+with+a+crystal+core.;Management+Information+Systems;Web+Development+%7C+Data+Analytics" alt="Typing SVG" />
+  </a>
+  <br/>
   
   <a href="https://chrystalandia-chaucao.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Enter_Chrystalandia-000000?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
@@ -26,7 +29,7 @@
 ### 📊 The Archive
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ccao-angelo&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=00F0FF&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://nice-readme.vercel.app/stats?username=ccao-angelo&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=00F0FF&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccao-angelo&background=000000&stroke=000000&ring=8A2BE2&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
   <br />
 </div>
