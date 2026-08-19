@@ -23,11 +23,11 @@
   <br />
 </div>
 
-### 📊 The Archive (GitHub Stats)
+### 📊 The Archive
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ccao-angelo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ccao-angelo](https://streak-stats.demolab.com/?user=ccao-angelo)" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ccao-angelo&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=00F0FF&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccao-angelo&background=000000&stroke=000000&ring=8A2BE2&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
   <br />
 </div>
 
