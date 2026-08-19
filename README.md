@@ -26,7 +26,7 @@
 ### 📊 The Archive (GitHub Stats)
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ccao-angelo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccao-angelo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
 </div>
