@@ -3,9 +3,7 @@
 
   <p>I build user-centered web applications and measurable marketing workflows at the intersection of technology, data, and digital content.</p>
   
-  <a href="https://chrystalandia-chaucao.hcao.workers.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=A+universe+with+a+crystal+core.;Marketing+Engineering;AI+Automation;Full-Stack+Web+Development+%7C+Marketing+Analytics&v=1" alt="Typing SVG" />
-  </a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=A+universe+with+a+crystal+core.;Marketing+Engineering;AI+Automation;Full-Stack+Web+Development+%7C+Marketing+Analytics&v=1" alt="Typing SVG" />
   <br/>
   
   [![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-000000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://chrystalandia-chaucao.hcao.workers.dev/)
